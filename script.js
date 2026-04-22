@@ -1,7 +1,7 @@
 const images = [
-  "BMW_X5_Leather_5000.jpg",
-  "Swift_Fabric_3000.jpg",
-  "Creta_Premium_4500.jpg"
+  "GrandVitara_Black_OE_8000.jpeg",
+  "GrandVitara_Black_OE_8000.jpeg",
+  "GrandVitara_Black_OE_8000.jpeg"
 ];
 
 const container = document.getElementById("product-container");
