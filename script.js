@@ -1,6 +1,7 @@
 const images = [
   "GrandVitara_Black_OE_8000.jpeg",
   "GrandVitara_Black_OE_8000.jpeg",
+  "GrandVitara_Black_OE_8000.jpeg",
   "GrandVitara_Black_OE_8000.jpeg"
 ];
 
