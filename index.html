@@ -174,6 +174,25 @@
         padding: 0 12px;
       }
     }
+
+    @media (max-width: 860px) {
+      .cards-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+      }
+    }
+
+    @media (max-width: 720px) {
+      .footer-link {
+        width: 140px !important;
+        height: 140px !important;
+        min-width: 140px !important;
+      }
+
+      .footer-icon {
+        width: 70px !important;
+        height: 70px !important;
+      }
+    }
   </style>
 </head>
 <body>
